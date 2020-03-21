@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "react-native-paper": "3.6.0",
+    "react-native-screens": "^2.0.0",
+    "@react-navigation/stack": "latest",
+    "@react-navigation/native": "5.0.5",
+    "react-native-gesture-handler": "^1.0.0",
+    "react-native-safe-area-context": "^0.6.0",
+    "@react-native-community/masked-view": "^0.1.0"
+  }
+}
